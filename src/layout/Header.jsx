@@ -1,11 +1,11 @@
 export default function Header() {
   return (
     <nav>
-      <div class="nav-wrapper header__nav">
-        <a href="#" class="brand-logo">
+      <div className="nav-wrapper header__nav">
+        <a href="#" className="brand-logo">
         Search from here
         </a>
-        <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <ul id="nav-mobile" className="right hide-on-med-and-down">
           <li>
             <a href="/">Movie Application</a>
           </li>
