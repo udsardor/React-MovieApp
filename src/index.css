@@ -108,3 +108,8 @@
     transform: rotate(360deg);
   }
 }
+
+label:not(:last-child){
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
